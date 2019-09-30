@@ -125,7 +125,7 @@ spam(){
                     echo "========================================"
                     target_do=$get_sms'/sms.php?nomor='$target'&paket='$paket
                     CURL_RESPONSE=`curl -s -o /dev/null -w "%{http_code}" $target_do`
-                    echo " Gunakan tools dengan bijak"
+                    echo " Gunakan tools dengan baik"
                     echo
                     echo " Love u always "
                     echo " -Fr_sec"
